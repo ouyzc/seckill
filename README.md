@@ -2,7 +2,7 @@
 
 创建项目目录，结构如下
 
-![Java项目目录结构](/Volumes/D/Java/seckill/image/Java项目目录结构.png)
+![Java项目目录结构](image/Java项目目录结构.png)
 
 将web.xml版本更改为3.1
 
